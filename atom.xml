@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JingyeXia.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-07-30T10:06:10.126Z</updated>
+    <updated>2019-07-30T10:06:45.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://JingyeXia.github.io/"/>
     <link rel="self" href="https://JingyeXia.github.io//atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://JingyeXia.github.io//images/avatar.png</logo>
     <icon>https://JingyeXia.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://JingyeXia.github.io//post/about</id>
-        <link href="https://JingyeXia.github.io//post/about">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p>欢迎来到我的Github Gridea微博，我来自PRC.Jiangxi.Jingdezhen。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://JingyeXia.github.io//post/hello-gridea</id>
